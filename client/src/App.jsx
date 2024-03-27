@@ -1,5 +1,5 @@
 
-import Website from "./utils/Website";
+import Website from "./pages/Website";
 
 
 function App() {
